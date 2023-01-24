@@ -1,0 +1,22 @@
+/* nav {
+    height: 50px;
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.brand {
+    margin-left: 20px;
+}
+
+.item {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+}
+
+#contactImage {
+    height: 250px;
+    border-radius: 100px;
+}
